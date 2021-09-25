@@ -6,6 +6,7 @@
 * ReactJS
 * Redux Toolkit (for creation of api and fetching data easily)
 * Ant Design (for UI Development)
+* ChartJs
 
 Click [here](https://cryptonnn.netlify.app/) to view it in the browser.
 
